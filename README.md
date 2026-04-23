@@ -7,15 +7,3 @@
 - Welche Weiterbildungsangebote, welche damit verbundenen Kosten, wie hoch ist das Interesse daran?
 - Würden mehr potenzielle Interessenten die Weiterbildung machen, wenn Träger der Betreuungseinrichtungen die Kosten übernehmen? Welches Potenzial?
 
-# Mögliche Datenquellen:
-destatis
-Kranken- und Pflegekassen
-Stellenanzeigen
-Weiterbildungsanbieter
-Große Träger wie Diakonie, Malteser usw.
-
-# Definitionen und Voraussetzungen
-tbd
-
-# Vorgehensweise 
-tbd
